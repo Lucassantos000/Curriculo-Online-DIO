@@ -15,5 +15,3 @@ Gerador de favicon: [Favicon.io](https://link-url-here.org)
 Editor de Texto: [VS Code](https://code.visualstudio.com/)  
 Extensão para servir as páginas localmente: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
 Navegador: [Firefox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/)
-
-documento criado por:Leonardo Antônio de Deus MODIFICADO por: LUCAS DOS SANTOS MARQUES
