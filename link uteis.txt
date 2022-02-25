@@ -1,0 +1,6 @@
+links úteis:
+https://www.web2pdfconvert.com/ - transforma html em pdf 
+https://curriculunlucasnetlify.netlify.app/ - currículo lucas
+https://app.netlify.com/sites/curriculunlucasnetlify/overview - netfly repositorio de código
+https://www.linkedin.com/in/lucas-santos-26135111a/ - link linkdin
+https://github.com/Lucassantos000/ - link github 
